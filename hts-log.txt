@@ -1,0 +1,10 @@
+HTTrack3.49-4+libhtsjava.so.2 launched on Wed, 26 Mar 2025 11:54:35 at https://boredhumans.com/falling_sand/
+(httrack https://boredhumans.com/falling_sand/ -O /home/pizza/mywebsite )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:54:37	Error: 	"Forbidden" (403) at link https://boredhumans.com/falling_sand/ (from primary/primary)
+11:54:37	Warning: 	No data seems to have been transferred during this session! : restoring previous one!
