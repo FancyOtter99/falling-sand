@@ -1,3 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-11:54:36	526/526	---MCZ	200	added ('OK')	text/plain	etag:W/%2267b-65c1657b-11f606dd123e3257;br%22	https://boredhumans.com/robots.txt		(from )
-11:54:37	7159/7159	---MCZ	403	error ('Forbidden')	text/html	date:Wed,%2026%20Mar%202025%2015:54:37%20GMT	https://boredhumans.com/falling_sand/	/home/pizza/mywebsite/boredhumans.com/falling_sand/index.html	(from )
